@@ -50,7 +50,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=kamelsh-bhatt-52625&theme=radical&border_radius=2.7&show_icons=true" alt="pankajsbisht143" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh-bhatt-52625&theme=radical&border_radius=2.7&show_icons=true" alt="pankajsbisht143" />
 
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlesh-bhatt-52625&theme=radical&border_radius=2.7" alt="pankaj singh GitHub Contribution"/>
