@@ -77,7 +77,7 @@
         </a>
     </p>
     <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pankajsbisht143/github-profile-views-counter">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kamlesh-bhatt-52625/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=pankajsbisht143" >
     </a>
     <a href="https://github.com/kamlesh-bhatt-52625?tab=followers">
@@ -85,4 +85,3 @@
     </a>
     <hr />
     <h2><a href="https://kamlesh-bhatt-52625.github.io/">🌍 | Portfolio</a></h2>
-    <a href="https://kamlesh-bhatt-52625.github.io">kamlesh-bhatt-52625.github.io/</a>
