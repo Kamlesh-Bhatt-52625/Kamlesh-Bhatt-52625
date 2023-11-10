@@ -84,5 +84,5 @@
         <img src="https://img.shields.io/github/followers/kamlesh-bhatt-52625?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://kamlesh-bhatt-52625.github.io">🌍 | Portfolio </a></h2>
-    https://kamlesh-bhatt-52625.github.io/
+    <h2>🌍 | Portfolio</h2>
+    <a href="https://kamlesh-bhatt-52625.github.io"></a>
