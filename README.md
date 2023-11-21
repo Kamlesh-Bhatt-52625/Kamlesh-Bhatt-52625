@@ -53,7 +53,7 @@
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh-bhatt-52625&theme=radical&border_radius=2.7&show_icons=true" alt="kamlesh-bhatt-52625" />
 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlesh-bhatt-52625&theme=radical&border_radius=2.7" alt="pankaj singh GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlesh-bhatt-52625&theme=radical&border_radius=2.7" alt="Kamlesh Bhatt GitHub Contribution"/>
   
 
   
@@ -68,7 +68,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kamlesh-bhatt-5059a1273/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" width="40px" />
+                alt="https://www.linkedin.com/in/kamlesh-bhatt-5059a1273/" width="40px" />
         </a>
         <a href="https://github.com/kamlesh-bhatt-52625" target="blank">
             <img align="center"
