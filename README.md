@@ -6,8 +6,6 @@
 </p>
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
-- 🔭 I’m currently working on **My Personal Development**
-
 - 🌱 I’m currently learning **React.js node.js and Database**
 
 - 👨‍💻 All of my projects are available at [https://kamlesh-bhatt-52625.github.io/](https://kamlesh-bhatt-52625.github.io)
