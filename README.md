@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
   
 </p>
-<p align="center" >Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
+<p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 
 - 🌱 I’m currently learning **React.js node.js and Database**
 
